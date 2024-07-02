@@ -292,6 +292,7 @@ RUN rpm-ostree install \
         xrandr \
         compsize \
         ryzenadj \
+        input-remapper \
         i2c-tools \
         udica \
         joycond \
